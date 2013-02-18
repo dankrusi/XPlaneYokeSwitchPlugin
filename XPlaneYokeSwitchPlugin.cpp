@@ -1,10 +1,11 @@
 
 /*
- *  XPlaneYokeSwitchPlugin.cpp
+ * XPlaneYokeSwitchPlugin.cpp
+ * https://github.com/dankrusi/XPlaneYokeSwitchPlugin
+ * Copyright (c) 2013 Dan Krusi, licensed under GNU GPLv3
  * 
- * This code shows how to implement a trivial hot key.  A hot key is a mappable command
- * key the user can press; in this case, this plugin maps F1 being pressed down to getting 
- * the sim to say stuff.
+ * An X-Plane plugin to switch/change all yoke/jostick 
+ * settings between two sets of hardware.
  * 
  */
 
